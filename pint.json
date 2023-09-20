@@ -1,0 +1,13 @@
+{
+    "preset": "psr12",
+    "rules": {
+        "not_operator_with_successor_space": false,
+        "whitespace_after_comma_in_array": true,
+        "trailing_comma_in_multiline": {
+            "elements": ["arrays"]
+        },
+        "ordered_imports": {
+            "sort_algorithm": "alpha"
+        }
+    }
+}
